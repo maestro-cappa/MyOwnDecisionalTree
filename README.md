@@ -6,7 +6,7 @@ This is a **personal, educational project** aimed at learning the fundamentals o
 
 ⚠️ **Important:** This project is **highly inefficient**, may contain bugs, and is intended **only for learning purposes**.  
 
-Currently, the model works only with **tabular datasets formatted as `[feature1, feature2, ..., featureN, label]`**, such as:
+Currently, the model works only with **tabular datasets formatted as `[feature1, feature2, ..., featureN, label]`** from sklearn library, such as:
 
 - `digits`  
 - `breast_cancer`  
